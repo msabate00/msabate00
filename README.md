@@ -128,7 +128,5 @@
 
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1d1d,100:131514&height=65&section=footer"/>
 </p>
-
-Last Edited on: 29/11/2023

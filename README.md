@@ -16,7 +16,6 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689). -------------
 - 💁‍♂️ Volunteer to help anyone in need
 - ✍ Every now and then, I upload some trailers of my projects to [YouTube](https://www.youtube.com/@aitramkg6244/videos)!
 - ❤ Contributing to Open Source.
@@ -74,15 +73,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Solaris-Group/SolarisEngine">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=msabate00&repo=SolarisEngine&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
+    <td colspan="2" width="100%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/msabate00">

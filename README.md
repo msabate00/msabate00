@@ -54,7 +54,7 @@
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
+<!--
 <table width="100%">
   <tr>
     <td width="50%">
@@ -84,7 +84,49 @@
       </p>
     </td>
   </tr>
+</table> -->
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/msabate00">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=msabate00&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/msabate00">
+          <img align="center" src="https://streak-stats.demolab.com?user=msabate00&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Most Used Languages</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Solaris-Group/SolarisEngine">
+          <!--<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=msabate00&repo=SolarisEngine&theme=nightowl&show_owner=true" alt="Cryptos Project" /> -->
+          <img align="center" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msabate00&hide_progress=false&layout=compact&theme=nightowl" alt="Most Used Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/msabate00">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=msabate00&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
+
+
 <br />
 
 <!--Contribution Graph-->

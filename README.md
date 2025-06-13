@@ -37,7 +37,7 @@
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <!--<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,php,unity,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />-->
-<img width="500px"  src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,lua,py,html,css,php,dotnet,unity,unreal,godot,github,laravel,wordpress,visualstudio,vscode,linux,windows,mysql,mongodb,ps,ai,figma,raspberrypi,&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,jquery,lua,py,html,css,bootstrap,php,dotnet,unity,unreal,godot,git,github,laravel,wordpress,visualstudio,vscode,linux,windows,mysql,mongodb,ps,ai,figma,raspberrypi,docker,&perline=10"  />
 </p>
 <br />
 

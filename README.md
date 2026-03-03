@@ -92,8 +92,8 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/msabate00">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=msabate00&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
+    <img  alt="msabate00's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/msabate00?cardType=level&theme=onedark&fontFamily=Encode%20Sans%20Expanded&preferLogin=false&Points.Commits=60&Background=011627&Text=C397E2&Title=C397E2&Border=E4E2E2&Ring=C397E2&borderRadius=3" />
+  </a>  
       </p>
     </td>
     <td width="50%">

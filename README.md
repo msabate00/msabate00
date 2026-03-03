@@ -92,7 +92,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/msabate00">
-    <img  alt="msabate00's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/msabate00?cardType=level&theme=onedark&fontFamily=Encode%20Sans%20Expanded&preferLogin=false&Points.Commits=60&Background=011627&Text=C397E2&Title=C397E2&Border=E4E2E2&Ring=C397E2&borderRadius=3" />
+          <img align="center" width="495" height="195" src="https://github-stats-extended.vercel.app/api?username=msabate00&rank_icon=github&hide_title=true&include_all_commits=true&theme=nightowl" alt="Most Used Languages" />
   </a>  
       </p>
     </td>
@@ -100,7 +100,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/msabate00">
-          <img align="center" src="https://streak-stats.demolab.com?user=msabate00&theme=nightowl" alt="Streak Stats" />
+          <img align="center" width="495" height="195" src="https://streak-stats.demolab.com?user=msabate00&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -111,7 +111,7 @@
       <p align="center">
         <a href="https://github.com/Solaris-Group/SolarisEngine">
           <!--<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=msabate00&repo=SolarisEngine&theme=nightowl&show_owner=true" alt="Cryptos Project" /> -->
-          <img align="center" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msabate00&hide_progress=false&layout=compact&theme=nightowl" alt="Most Used Languages" />
+          <img align="center" width="495" height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=msabate00&hide_title=true&langs_count=4&theme=nightowl" alt="Most Used Languages" />
         </a>
       </p>
     </td>
@@ -119,7 +119,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/msabate00">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=msabate00&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center" width="495" height="195" src="https://github-contributor-stats.vercel.app/api?username=msabate00&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>

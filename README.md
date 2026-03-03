@@ -47,7 +47,7 @@
 <p align="center">
  <!-- <a href="https://github.com/Kiran1689/github-profile-trophy">-->
   <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=msabate00&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+    <img src="https://github-trophies.vercel.app/?username=msabate00&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
 <br />
